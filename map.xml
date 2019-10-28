@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (11406 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="55.7236000" minlon="37.7404000" maxlat="55.7305000" maxlon="37.7622000"/>
+ <node id="303788183" visible="true" version="5" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7270181" lon="37.7602433"/>
+ <node id="303788184" visible="true" version="5" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7267859" lon="37.7599917"/>
+ <node id="303788185" visible="true" version="4" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7261226" lon="37.7619217"/>
+ <node id="4809411960" visible="true" version="1" changeset="48027057" timestamp="2017-04-22T09:15:50Z" user="Alexander-II" uid="3580412" lat="55.7262100" lon="37.7620165">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="303788186" visible="true" version="4" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7262998" lon="37.7621138"/>
+ <node id="303788187" visible="true" version="4" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7263671" lon="37.7619180"/>
+ <node id="303788188" visible="true" version="4" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7262745" lon="37.7618176"/>
+ <node id="303788189" visible="true" version="4" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7268153" lon="37.7602441"/>
+ <node id="303788190" visible="true" version="4" changeset="48027057" timestamp="2017-04-22T09:16:04Z" user="Alexander-II" uid="3580412" lat="55.7269629" lon="37.7604039"/>
+ <way id="27660186" visible="true" version="9" changeset="48027057" timestamp="2017-04-22T09:16:25Z" user="Alexander-II" uid="3580412">
+  <nd ref="303788183"/>
+  <nd ref="303788184"/>
+  <nd ref="303788185"/>
+  <nd ref="4809411960"/>
+  <nd ref="303788186"/>
+  <nd ref="303788187"/>
+  <nd ref="303788188"/>
+  <nd ref="303788189"/>
+  <nd ref="303788190"/>
+  <nd ref="303788183"/>
+  <tag k="addr:housenumber" v="45 к1"/>
+  <tag k="addr:street" v="Рязанский проспект"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="6"/>
+ </way>
+</osm>
